@@ -1,0 +1,2 @@
+# jsadb
+Blogger Adblock Killer
