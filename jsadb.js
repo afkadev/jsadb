@@ -3,7 +3,7 @@
     var a = document.createElement("div");
     a.id = "jsadbIDNSTEAL";
     a.innerHTML =
-      '<div class="inner"> <div class="header"> <h2>Ad Blocker Detected</h2> </div><div class="isi"> <p>Please consider supporting us by disabling exstension of listed below</p><div class="tombol"><button class="1 active">Adblock</button><button class="2">Adblock Plus</button></div></div></div>';
+      ' <div class="inner"> <div class="header"> <h2>Ad Blocker Detected</h2> </div><div class="isi"> <p>Please consider supporting us by disabling exstension of listed below</p><div class="tombol"><img id="gambar" src="https://raw.githubusercontent.com/erzawinsby/jsadb/master/ghostery.png"/><img id="gambar" src="https://raw.githubusercontent.com/erzawinsby/jsadb/master/adblock.png"/><img id="gambar" src="https://raw.githubusercontent.com/erzawinsby/jsadb/master/abplus.png"/><img id="gambar" src="https://raw.githubusercontent.com/erzawinsby/jsadb/master/abulti.png"/></div></div></div>';
     document.body.append(a);
     document.body.style.overflow = "hidden";
     var b = a.querySelectorAll("button");
