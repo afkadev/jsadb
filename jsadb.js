@@ -1,7 +1,7 @@
 !(function() {
   function f() {
     var a = document.createElement("div");
-    a.id = "arlinablock";
+    a.id = "jsadbIDNSTEAL";
     a.innerHTML =
       '<div class="inner"> <div class="header"> <h2>Ad Blocker Detected</h2> </div><div class="isi"> <p>Please consider supporting us by disabling exstension of listed below</p><div class="tombol"><button class="1 active">Adblock</button><button class="2">Adblock Plus</button></div></div></div>';
     document.body.append(a);
